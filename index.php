@@ -1,5 +1,5 @@
 <?php
-require_once "Controllers/Controllers.php";
+require_once "Controllers.php";
 
 ?>
 <!DOCTYPE html>
